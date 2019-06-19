@@ -1,2 +1,2 @@
-# devops_docker_part_0
-DevOps with docker course part 0 assignment
+# DevOps with Docker - Part 0
+I hereby confirm that I have filled in the survey :)
